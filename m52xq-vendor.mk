@@ -8,6 +8,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/m52xq/proprietary/recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin \
     vendor/samsung/m52xq/proprietary/recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin \
+    vendor/samsung/m52xq/proprietary/vendor/etc/SoundBoosterParam.txt:$(TARGET_COPY_OUT_VENDOR)/etc/SoundBoosterParam.txt \
     vendor/samsung/m52xq/proprietary/vendor/etc/audconf/OPEN/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/Bluetooth_cal.acdb \
     vendor/samsung/m52xq/proprietary/vendor/etc/audconf/OPEN/General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/General_cal.acdb \
     vendor/samsung/m52xq/proprietary/vendor/etc/audconf/OPEN/Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/Global_cal.acdb \
