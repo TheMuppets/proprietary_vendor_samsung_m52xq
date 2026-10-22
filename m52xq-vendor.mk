@@ -34,6 +34,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m52xq/proprietary/vendor/firmware/bt_nvm_loading.xml:$(TARGET_COPY_OUT_VENDOR)/firmware/bt_nvm_loading.xml \
     vendor/samsung/m52xq/proprietary/vendor/firmware/dax_param.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dax_param.bin \
     vendor/samsung/m52xq/proprietary/vendor/firmware/nfc/sec_s3nrn4v_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/sec_s3nrn4v_firmware.bin \
+    vendor/samsung/m52xq/proprietary/vendor/firmware/qca6750/bdwlan.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/qca6750/bdwlan.elf \
+    vendor/samsung/m52xq/proprietary/vendor/firmware/qca6750/bdwlan.elf10:$(TARGET_COPY_OUT_VENDOR)/firmware/qca6750/bdwlan.elf10 \
     vendor/samsung/m52xq/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/samsung/m52xq/proprietary/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_synaptics/s3908_m52xq_boe.bin \
     vendor/samsung/m52xq/proprietary/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_synaptics/s3908_m52xq_sdc.bin \
